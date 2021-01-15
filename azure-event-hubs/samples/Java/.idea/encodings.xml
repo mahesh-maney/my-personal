@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Basic/AdvancedSendOptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/AsyncSend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/ReceiveByDateTime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/ReceiveUsingOffset/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/ReceiveUsingSequenceNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/SendBatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/SimpleProxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Basic/SimpleSend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Benchmarks/AutoScaleOnIngress/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Benchmarks/IngressBenchmark/src/main/java" charset="UTF-8" />
+  </component>
+</project>

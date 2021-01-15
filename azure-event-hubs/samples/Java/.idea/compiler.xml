@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EventProcessorSample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AdvancedSendOptions" target="1.8" />
+      <module name="AsyncSend" target="1.8" />
+      <module name="AutoScaleOnIngress" target="1.8" />
+      <module name="azure-eventhubs-samples" target="1.5" />
+      <module name="EventProcessorSample" target="1.8" />
+      <module name="IngressBenchmark" target="1.8" />
+      <module name="ReceiveByDateTime" target="1.8" />
+      <module name="ReceiveUsingOffset" target="1.8" />
+      <module name="ReceiveUsingSequenceNumber" target="1.8" />
+      <module name="SendBatch" target="1.8" />
+      <module name="SimpleProxy" target="1.8" />
+      <module name="SimpleSend" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

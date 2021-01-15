@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic/EventProcessorSample/EventProcessorSample.iml" filepath="$PROJECT_DIR$/Basic/EventProcessorSample/EventProcessorSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rbac/Rbac.iml" filepath="$PROJECT_DIR$/Rbac/Rbac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azure-eventhubs-samples.iml" filepath="$PROJECT_DIR$/azure-eventhubs-samples.iml" />
+    </modules>
+  </component>
+</project>

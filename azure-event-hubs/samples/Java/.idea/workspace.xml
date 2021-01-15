@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="128bcc4f-a53a-498f-99bd-8163fae748b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/C3MCheckPointStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/ConsumeEventHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/CreateSASInfoForAzureeventHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/EventHubConsoleConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/EventHubConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/POCEventHubConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/ReadmeSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/ReceiveUsingOffset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/EventProcessorSample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/EventProcessorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/EventProcessorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\ideaIC-2020.2.3.win\plugins\maven\lib\maven3" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="printErrorStackTraces" value="true" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6vUeMN53Ae0cjx6gp0Zr8bsXc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic/EventProcessorSample/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38898164" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.microsoft.azure.eventhubs.samples.eventprocessorsample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My-Code-Repo\azure-event-hubs\samples\Java\Basic\EventProcessorSample\src\main\resources" />
+      <recent name="C:\My-Code-Repo\azure-event-hubs\samples\Java\Basic\EventProcessorSample\src\main\java\com\microsoft\azure\eventhubs\maney" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PublishWithBatchSettingsExample">
+    <configuration name="Properties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microsoft.azure.eventhubs.maney.Properties" />
+      <module name="EventProcessorSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microsoft.azure.eventhubs.maney.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PublishWithBatchSettingsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS " value="C:\My-Code-Repo\azure-event-hubs\samples\Java\Basic\EventProcessorSample\src\main\resources\mohan-test-gcp-project-f1114fc82e99.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.microsoft.azure.eventhubs.maney.PublishWithBatchSettingsExample" />
+      <module name="EventProcessorSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microsoft.azure.eventhubs.maney.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Receiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microsoft.azure.eventhubs.maney.Receiver" />
+      <module name="EventProcessorSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microsoft.azure.eventhubs.samples.eventprocessorsample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendBatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microsoft.azure.eventhubs.maney.SendBatch" />
+      <module name="EventProcessorSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microsoft.azure.eventhubs.samples.eventprocessorsample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartStreaming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microsoft.azure.eventhubs.maney.StartStreaming" />
+      <module name="EventProcessorSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microsoft.azure.eventhubs.samples.eventprocessorsample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Properties" />
+      <item itemvalue="Application.PublishWithBatchSettingsExample" />
+      <item itemvalue="Application.Receiver" />
+      <item itemvalue="Application.SendBatch" />
+      <item itemvalue="Application.StartStreaming" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PublishWithBatchSettingsExample" />
+        <item itemvalue="Application.StartStreaming" />
+        <item itemvalue="Application.Receiver" />
+        <item itemvalue="Application.SendBatch" />
+        <item itemvalue="Application.Properties" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="128bcc4f-a53a-498f-99bd-8163fae748b8" name="Default Changelist" comment="" />
+      <created>1606930374306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606930374306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1607435730763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607435730763" />
+    <state x="169" y="56" width="1426" height="851" key="#Project_Structure" timestamp="1610481384408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="169" y="56" width="1426" height="851" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610481384408" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610481406706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610481406706" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1610612584846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610612584846" />
+    <state x="690" y="299" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610349843147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="299" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610349843147" />
+    <state x="699" y="389" width="870" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610349845424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="389" width="870" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1610349845424" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610216715780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610216715780" />
+    <state x="640" y="176" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1607427358980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="176" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607427358980" />
+    <state x="715" y="223" width="781" height="594" key="#xdebugger.evaluate" timestamp="1610627972885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" width="781" height="594" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1610627972885" />
+    <state x="689" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606941972864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1606941972864" />
+    <state width="1128" height="378" key="DebuggerActiveHint" timestamp="1610621117233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1128" height="378" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1610621117233" />
+    <state x="827" y="270" width="708" height="499" key="EnvironmentVariablesDialog" timestamp="1610481403330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="270" width="708" height="499" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610481403330" />
+    <state x="740" y="237" key="FileChooserDialogImpl" timestamp="1610653924623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="237" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610653924623" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1610653946218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946218" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1610653946217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946217" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1610653946217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946217" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1610653946217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946217" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1610653946219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946219" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1610653946218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946218" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1610653946218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946218" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1610653946218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610653946218" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1608221455812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608221455812" />
+    <state x="625" y="224" width="687" height="591" key="NewModule_or_Project.wizard" timestamp="1610653928237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="224" width="687" height="591" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610653928237" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608217315118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608217315118" />
+    <state x="681" y="261" width="570" height="524" key="StructurePopup" timestamp="1610622679041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="570" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1610622679041" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1610612530734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1610612530734" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1610277108643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610277108643" />
+    <state x="-274" y="97" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610277108643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-274" y="97" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610277108643" />
+    <state x="664" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606935408069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1606935408069" />
+    <state x="505" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609140756340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1609140756340" />
+    <state x="944" y="68" width="892" height="624" key="find.popup" timestamp="1607800750323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="944" y="68" width="892" height="624" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607800750323" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607803436739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607803436739" />
+    <state x="1071" y="161" width="672" height="678" key="search.everywhere.popup" timestamp="1610276899492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1071" y="161" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610276899492" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar!/com/fasterxml/jackson/databind/ObjectMapper.class</url>
+          <line>1852</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/Receiver.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/samples/eventprocessorsample/Receiver.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/StartStreaming.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/Receiver.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/ReadJSON.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/SendBatch.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/google/api/gax/1.60.1/gax-1.60.1.jar!/com/google/api/gax/core/GoogleCredentialsProvider.class</url>
+          <line>35</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/PublishWithBatchSettingsExample.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basic/EventProcessorSample/src/main/java/com/microsoft/azure/eventhubs/maney/PublishWithBatchSettingsExample.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
